@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "69f09f579bb670c203bdc83a"
+  },
+  "totalAnimals": 10,
+  "uniqueCaretakers": [
+    "Sophia Green",
+    "John Smith",
+    "Mark Taylor",
+    "Alice Green",
+    "Michael Davis",
+    "Jake Adams",
+    "Emily Brown"
+  ],
+  "environment": "Savanna",
+  "uniqueSpecies": [
+    "Giraffe",
+    "Lion"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69f09f579bb670c203bdc83b"
+  },
+  "totalAnimals": 23,
+  "uniqueCaretakers": [
+    "Nathan Green",
+    "John Smith",
+    "Alice Green",
+    "Olivia Davis",
+    "Jake Adams",
+    "Emily Brown",
+    "Mark Taylor",
+    "Mark Brown",
+    "Olivia Harris",
+    "Michael Brown",
+    "Emily Green",
+    "Sophia Taylor",
+    "Sophia White"
+  ],
+  "environment": "Rainforest",
+  "uniqueSpecies": [
+    "Mandrill",
+    "Panther",
+    "Spider Monkey",
+    "Tiger"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69f09f579bb670c203bdc83c"
+  },
+  "totalAnimals": 10,
+  "uniqueCaretakers": [
+    "Nathan Green",
+    "Mark Taylor",
+    "Emily White",
+    "Emily Brown",
+    "Sophia Taylor",
+    "Jake Adams",
+    "Nathan Hall",
+    "Sophia Green",
+    "John White"
+  ],
+  "environment": "Desert",
+  "uniqueSpecies": [
+    "Coyote",
+    "Dromedary",
+    "Rattlesnake"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69f09f579bb670c203bdc83d"
+  },
+  "totalAnimals": 11,
+  "uniqueCaretakers": [
+    "Mark Taylor",
+    "Jake Adams",
+    "Alice Brown",
+    "Emily Brown",
+    "Emily Green",
+    "Alice White",
+    "Nathan Hall",
+    "Alice Green",
+    "John Smith"
+  ],
+  "environment": "Grasslands",
+  "uniqueSpecies": [
+    "Buffalo",
+    "Elephant",
+    "Kangaroo",
+    "Rhinoceros"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69f09f579bb670c203bdc83e"
+  },
+  "totalAnimals": 7,
+  "uniqueCaretakers": [
+    "Alice Brown",
+    "Sophia Green",
+    "Michael Brown",
+    "John White",
+    "Emily White",
+    "Sophia Taylor",
+    "Nathan Hall"
+  ],
+  "environment": "Tundra",
+  "uniqueSpecies": [
+    "Wolf"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69f09f579bb670c203bdc83f"
+  },
+  "totalAnimals": 2,
+  "uniqueCaretakers": [
+    "John White",
+    "Emily Brown"
+  ],
+  "environment": "Mountains",
+  "uniqueSpecies": [
+    "Eagle"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69f09f579bb670c203bdc840"
+  },
+  "totalAnimals": 5,
+  "uniqueCaretakers": [
+    "Emily Brown",
+    "Jake Adams",
+    "Sophia Green",
+    "Michael Davis",
+    "John Smith"
+  ],
+  "environment": "Mountain Forest",
+  "uniqueSpecies": [
+    "Bear"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69f09f579bb670c203bdc841"
+  },
+  "totalAnimals": 3,
+  "uniqueCaretakers": [
+    "Sophia Taylor",
+    "Mark Brown",
+    "Alice Green"
+  ],
+  "environment": "River",
+  "uniqueSpecies": [
+    "Hippopotamus"
+  ]
+}]

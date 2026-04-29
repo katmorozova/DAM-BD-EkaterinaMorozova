@@ -1,0 +1,491 @@
+[{
+  "_id": 601,
+  "nameCaretaker": "Alice Brown",
+  "animalsAttended": [
+    "Joey"
+  ]
+},
+{
+  "_id": 511,
+  "nameCaretaker": "Mark Taylor",
+  "animalsAttended": [
+    "Mia"
+  ]
+},
+{
+  "_id": 203,
+  "nameCaretaker": "Alice Green",
+  "animalsAttended": [
+    "Simba"
+  ]
+},
+{
+  "_id": 204,
+  "nameCaretaker": "Mark Taylor",
+  "animalsAttended": [
+    "Nala"
+  ]
+},
+{
+  "_id": 607,
+  "nameCaretaker": "Alice Green",
+  "animalsAttended": [
+    "Hippo"
+  ]
+},
+{
+  "_id": 403,
+  "nameCaretaker": "Emily Brown",
+  "animalsAttended": [
+    "Koda"
+  ]
+},
+{
+  "_id": 523,
+  "nameCaretaker": "Alice White",
+  "animalsAttended": [
+    "Buffy"
+  ]
+},
+{
+  "_id": 613,
+  "nameCaretaker": "Emily Brown",
+  "animalsAttended": [
+    "Neckie"
+  ]
+},
+{
+  "_id": 409,
+  "nameCaretaker": "Emily White",
+  "animalsAttended": [
+    "Fang"
+  ]
+},
+{
+  "_id": 508,
+  "nameCaretaker": "Olivia Davis",
+  "animalsAttended": [
+    "Nia"
+  ]
+},
+{
+  "_id": 106,
+  "nameCaretaker": "Nathan Green",
+  "animalsAttended": [
+    "Zara"
+  ]
+},
+{
+  "_id": 411,
+  "nameCaretaker": "Michael Brown",
+  "animalsAttended": [
+    "Ghost"
+  ]
+},
+{
+  "_id": 512,
+  "nameCaretaker": "Emily Green",
+  "animalsAttended": [
+    "Lola"
+  ]
+},
+{
+  "_id": 201,
+  "nameCaretaker": "John Smith",
+  "animalsAttended": [
+    "Mufasa"
+  ]
+},
+{
+  "_id": 516,
+  "nameCaretaker": "John White",
+  "animalsAttended": [
+    "Shadow"
+  ]
+},
+{
+  "_id": 524,
+  "nameCaretaker": "Nathan Hall",
+  "animalsAttended": [
+    "Bison"
+  ]
+},
+{
+  "_id": 602,
+  "nameCaretaker": "Emily Green",
+  "animalsAttended": [
+    "Ruby"
+  ]
+},
+{
+  "_id": 105,
+  "nameCaretaker": "Sophia White",
+  "animalsAttended": [
+    "Kumba"
+  ]
+},
+{
+  "_id": 611,
+  "nameCaretaker": "Sophia Green",
+  "animalsAttended": [
+    "Grace"
+  ]
+},
+{
+  "_id": 519,
+  "nameCaretaker": "Nathan Hall",
+  "animalsAttended": [
+    "Storm"
+  ]
+},
+{
+  "_id": 205,
+  "nameCaretaker": "Michael Davis",
+  "animalsAttended": [
+    "Scar"
+  ]
+},
+{
+  "_id": 405,
+  "nameCaretaker": "John Smith",
+  "animalsAttended": [
+    "Smokey"
+  ]
+},
+{
+  "_id": 408,
+  "nameCaretaker": "Nathan Green",
+  "animalsAttended": [
+    "Luna"
+  ]
+},
+{
+  "_id": 514,
+  "nameCaretaker": "Sophia Taylor",
+  "animalsAttended": [
+    "Max"
+  ]
+},
+{
+  "_id": 515,
+  "nameCaretaker": "Emily Brown",
+  "animalsAttended": [
+    "Luna"
+  ]
+},
+{
+  "_id": 103,
+  "nameCaretaker": "Mark Taylor",
+  "animalsAttended": [
+    "Tala"
+  ]
+},
+{
+  "_id": 414,
+  "nameCaretaker": "Sophia Green",
+  "animalsAttended": [
+    "Blaze"
+  ]
+},
+{
+  "_id": 505,
+  "nameCaretaker": "Sophia Taylor",
+  "animalsAttended": [
+    "Kibo"
+  ]
+},
+{
+  "_id": 507,
+  "nameCaretaker": "Nathan Green",
+  "animalsAttended": [
+    "Jambo"
+  ]
+},
+{
+  "_id": 522,
+  "nameCaretaker": "Mark Taylor",
+  "animalsAttended": [
+    "Tala"
+  ]
+},
+{
+  "_id": 502,
+  "nameCaretaker": "Emily Brown",
+  "animalsAttended": [
+    "Freedom"
+  ]
+},
+{
+  "_id": 404,
+  "nameCaretaker": "Michael Davis",
+  "animalsAttended": [
+    "Yogi"
+  ]
+},
+{
+  "_id": 415,
+  "nameCaretaker": "Alice Brown",
+  "animalsAttended": [
+    "Storm"
+  ]
+},
+{
+  "_id": 101,
+  "nameCaretaker": "John Smith",
+  "animalsAttended": [
+    "Shere Khan"
+  ]
+},
+{
+  "_id": 402,
+  "nameCaretaker": "Sophia Green",
+  "animalsAttended": [
+    "Kenai"
+  ]
+},
+{
+  "_id": 520,
+  "nameCaretaker": "Michael Brown",
+  "animalsAttended": [
+    "Shere Khan"
+  ]
+},
+{
+  "_id": 605,
+  "nameCaretaker": "Emily Brown",
+  "animalsAttended": [
+    "Sandy"
+  ]
+},
+{
+  "_id": 410,
+  "nameCaretaker": "Sophia Taylor",
+  "animalsAttended": [
+    "Luna"
+  ]
+},
+{
+  "_id": 517,
+  "nameCaretaker": "Sophia Green",
+  "animalsAttended": [
+    "Maya"
+  ]
+},
+{
+  "_id": 506,
+  "nameCaretaker": "Mark Brown",
+  "animalsAttended": [
+    "Zuri"
+  ]
+},
+{
+  "_id": 303,
+  "nameCaretaker": "Alice Green",
+  "animalsAttended": [
+    "Ella"
+  ]
+},
+{
+  "_id": 606,
+  "nameCaretaker": "Nathan Green",
+  "animalsAttended": [
+    "Hump"
+  ]
+},
+{
+  "_id": 510,
+  "nameCaretaker": "Sophia White",
+  "animalsAttended": [
+    "Chuma"
+  ]
+},
+{
+  "_id": 407,
+  "nameCaretaker": "Mark Taylor",
+  "animalsAttended": [
+    "Shadow"
+  ]
+},
+{
+  "_id": 107,
+  "nameCaretaker": "Michael Brown",
+  "animalsAttended": [
+    "Kiran"
+  ]
+},
+{
+  "_id": 304,
+  "nameCaretaker": "Mark Taylor",
+  "animalsAttended": [
+    "Tantor"
+  ]
+},
+{
+  "_id": 104,
+  "nameCaretaker": "Olivia Harris",
+  "animalsAttended": [
+    "Tigris"
+  ]
+},
+{
+  "_id": 401,
+  "nameCaretaker": "Jake Adams",
+  "animalsAttended": [
+    "Balu"
+  ]
+},
+{
+  "_id": 509,
+  "nameCaretaker": "Jake Adams",
+  "animalsAttended": [
+    "Tamu"
+  ]
+},
+{
+  "_id": 513,
+  "nameCaretaker": "Nathan Green",
+  "animalsAttended": [
+    "Coco"
+  ]
+},
+{
+  "_id": 301,
+  "nameCaretaker": "John Smith",
+  "animalsAttended": [
+    "Dumbo"
+  ]
+},
+{
+  "_id": 302,
+  "nameCaretaker": "Emily Brown",
+  "animalsAttended": [
+    "Jumbo"
+  ]
+},
+{
+  "_id": 521,
+  "nameCaretaker": "Emily Green",
+  "animalsAttended": [
+    "Rajah"
+  ]
+},
+{
+  "_id": 604,
+  "nameCaretaker": "Mark Taylor",
+  "animalsAttended": [
+    "Dune"
+  ]
+},
+{
+  "_id": 614,
+  "nameCaretaker": "Nathan Hall",
+  "animalsAttended": [
+    "Horn"
+  ]
+},
+{
+  "_id": 525,
+  "nameCaretaker": "Jake Adams",
+  "animalsAttended": [
+    "Grazor"
+  ]
+},
+{
+  "_id": 412,
+  "nameCaretaker": "John White",
+  "animalsAttended": [
+    "Shadow"
+  ]
+},
+{
+  "_id": 202,
+  "nameCaretaker": "Emily Brown",
+  "animalsAttended": [
+    "Sarabi"
+  ]
+},
+{
+  "_id": 612,
+  "nameCaretaker": "Mark Taylor",
+  "animalsAttended": [
+    "Tallie"
+  ]
+},
+{
+  "_id": 501,
+  "nameCaretaker": "Jake Adams",
+  "animalsAttended": [
+    "Leo",
+    "Rattle"
+  ]
+},
+{
+  "_id": 518,
+  "nameCaretaker": "Emily White",
+  "animalsAttended": [
+    "Blaze"
+  ]
+},
+{
+  "_id": 608,
+  "nameCaretaker": "Mark Brown",
+  "animalsAttended": [
+    "Muddy"
+  ]
+},
+{
+  "_id": 610,
+  "nameCaretaker": "Michael Davis",
+  "animalsAttended": [
+    "Spot"
+  ]
+},
+{
+  "_id": 102,
+  "nameCaretaker": "Emily Brown",
+  "animalsAttended": [
+    "Rajah"
+  ]
+},
+{
+  "_id": 503,
+  "nameCaretaker": "John White",
+  "animalsAttended": [
+    "Liberty"
+  ]
+},
+{
+  "_id": 603,
+  "nameCaretaker": "Jake Adams",
+  "animalsAttended": [
+    "Skip"
+  ]
+},
+{
+  "_id": 609,
+  "nameCaretaker": "Sophia Taylor",
+  "animalsAttended": [
+    "Splash"
+  ]
+},
+{
+  "_id": 406,
+  "nameCaretaker": "Alice Green",
+  "animalsAttended": [
+    "Bagheera"
+  ]
+},
+{
+  "_id": 413,
+  "nameCaretaker": "Nathan Hall",
+  "animalsAttended": [
+    "Snow"
+  ]
+},
+{
+  "_id": 504,
+  "nameCaretaker": "Alice Green",
+  "animalsAttended": [
+    "Rafiki"
+  ]
+}]
